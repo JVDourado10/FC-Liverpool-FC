@@ -1,0 +1,44 @@
+#titulos {
+  margin-top: 80px;
+}
+
+#titulos .container {
+  display: flex;
+  gap: 20px;
+}
+
+#titulos img {
+  border-radius: 4px;
+}
+
+#titulos h1 {
+  color: #B91F26;
+}
+
+#titulos p {
+  background-color: #B91F26;
+  border-radius: 4px;
+  padding: 20px;
+  color: #F9F3F4;
+}
+
+.titulos-conteudo {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 20px;
+}
+
+/* Tabela de títulos */
+
+#titulos-2 {
+  display: flex;
+  align-items: center;
+  margin-top: 40px;
+  margin-bottom: 80px;
+  flex-direction: column;
+}
+
+#titulos-2 img{
+ border-radius: 4px;
+}

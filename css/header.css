@@ -1,0 +1,17 @@
+header {
+  background-color: #B91F26;
+}
+
+header .container {
+  display: flex;
+  justify-content: space-between;
+}
+
+header ul {
+  display: flex;
+  gap: 20px;
+}
+
+header a:hover {
+  text-decoration: underline;
+}

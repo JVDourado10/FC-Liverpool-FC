@@ -1,0 +1,22 @@
+#jogo {
+  margin-top: 20px;
+}
+
+#jogo .container {
+  display: flex;
+  gap: 60px;
+}
+
+#jogo h1 {
+  color: #B91F26;
+}
+
+.jogo-conteudo {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.jogo-conteudo a{
+  align-self: end;
+}
