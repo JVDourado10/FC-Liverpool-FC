@@ -21,7 +21,7 @@ ul {
 
 
 /* Tipografia */
-h1, a {
+h1, a, label {
   font: 400 40px/1.1 'Righteous';
 }
 
